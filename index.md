@@ -8,7 +8,7 @@
 
 >[修改快捷鍵](https://github.com/kk128809/kk128809.github.io/edit/master/index.md) 
 
-
+ <input type="text" class="form-control input-monospace input-sm js-zeroclipboard-target js-url-field" value="https://github.com/NCYUBRD/ecoinfo20161021-kk128809.git" aria-label="Clone this repository at https://github.com/NCYUBRD/ecoinfo20161021-kk128809.git" readonly>
 
 
 ### Markdown
