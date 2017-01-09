@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## 您好，歡迎光臨
 
-You can use the [editor on GitHub](https://github.com/kk128809/kk128809.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+以下無內容，全部空白
+快標記標記朋友讓他浪費看三分鐘進入這個網站看廢文
+連結http://kk128809.github.io/kk128809.github.io/
+[修改快捷鍵](https://github.com/kk128809/kk128809.github.io/edit/master/index.md) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
 
 ### Markdown
 
